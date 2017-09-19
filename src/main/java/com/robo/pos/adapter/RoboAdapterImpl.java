@@ -7,7 +7,6 @@ import org.apache.commons.lang3.EnumUtils;
 import com.robo.pos.command.RoboPosPlace;
 import com.robo.pos.command.RoboPosSetup;
 import com.robo.pos.exception.CustomException;
-import com.robo.pos.exception.ExitException;
 import com.robo.pos.service.RoboPosServiceLocator;
 import com.robo.pos.util.RoboConstants;
 import com.robo.pos.util.RoboPosCmdEnum;

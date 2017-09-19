@@ -2,12 +2,8 @@ package com.robo.pos.main;
 
 import java.util.Scanner;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-
 import com.robo.pos.adapter.RoboAdapterImpl;
 import com.robo.pos.adapter.RoboPosAdapter;
-import com.robo.pos.exception.ExitException;
 import com.robo.pos.util.RoboConstants;
 
 /**
